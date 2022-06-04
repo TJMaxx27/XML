@@ -6,7 +6,7 @@
   <Step2> Enter password  </Step2>
 </STR>        
  <Expected Result> The input field is blocked  </Expected Result>
-  <Actual Result> The input field allows you to enter data for authorization </Actual Result>
+  <Actual_Result> The input field allows you to enter data for authorization </Actual_Result>
   <Attachments> qwerty.jpg   </Attachments>
   <Priority> Blocker </Priority>
   <Severity> High </Severity>
