@@ -1,6 +1,6 @@
 <Title> The field for entering email and password when logging into a personal account is not active </Title>
 <Environment > Windows 10, Home Version</Environment> 
-<Preconditions> Open qwerty.exe </ Preconditions>
+<Preconditions> Open qwerty.exe </Preconditions>
 <STR>
   <Step1> Enter email </Step1>
   <Step2> Enter password  </Step2>
